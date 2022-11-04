@@ -2,12 +2,14 @@
 
 Just a fun project for a Minecraft minigame server build on Kubernetes :)
 
-There's not much here right now and not a public demo. Feel free to experiment with our code though (will require quite a lot of effort and `publishToMavenLocal`ing)
+Public demo available at towerdefence.cc
+
+We don't provide any documentation or advice on how to set this up for yourself but feel free to take a look at Agones. It's amazing.
 
 Frequently used software:
-  - Spring
-  - gRPC
-  - Minestom
-  - Velocity
-  - Kubernetes/Agones
-  - MongoDB
+  - Services - Spring
+  - Communication - gRPC
+  - Proxy - Velocity
+  - GameServers - Minestom
+  - Orchestration - Kubernetes + Agones
+  - Storage - MongoDB
