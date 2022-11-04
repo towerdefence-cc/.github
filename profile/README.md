@@ -2,7 +2,7 @@
 
 Just a fun project for a Minecraft minigame server built on Kubernetes :)
 
-Public demo available at towerdefence.cc - Note this is experimental and will be buggy, have many restarts, etc..
+Public demo available at towerdefence.cc - Note this is experimental and will be buggy, have many restarts, data is likely to be reset, etc..
 
 We don't provide any documentation or advice on how to set this up for yourself but feel free to take a look at Agones. It's amazing.
 
