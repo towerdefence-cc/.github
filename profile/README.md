@@ -18,3 +18,5 @@ Some fun info:
   - Tested to hold 1500 players on 16GB RAM and a Ryzen 3600 (single node setup, 20 lobbies and 1 proxy).
 
 Logo generated using Midjourney :heart:
+
+Discord: https://discord.gg/mtY7n8Apme
