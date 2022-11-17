@@ -7,7 +7,7 @@ Public demo available at towerdefence.cc - Note this is experimental and will be
 We don't provide any documentation or advice on how to set this up for yourself but feel free to take a look at Agones. It's amazing.
 
 Frequently used software:
-  - Services - Spring
+  - Services - Spring + Java/Go
   - Communication - gRPC
   - Proxy - Velocity
   - GameServers - Minestom
@@ -16,6 +16,7 @@ Frequently used software:
 
 Some fun info:
   - Tested to hold 1500 players on 16GB RAM and a Ryzen 3600 (single node setup, 20 lobbies and 1 proxy).
+  - Currently experimenting and possibly migrating microservices to Go
 
 Logo generated using Midjourney :heart:
 
