@@ -8,7 +8,7 @@ We don't provide any documentation or advice on how to set this up for yourself 
 
 Frequently used software:
   - Services - Spring + Java/Go
-  - Communication - gRPC
+  - Communication - gRPC, RabbitMQ
   - Proxy - Velocity
   - GameServers - Minestom
   - Orchestration - Kubernetes + Agones
